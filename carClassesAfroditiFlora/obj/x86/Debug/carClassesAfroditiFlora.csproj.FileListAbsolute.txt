@@ -1,0 +1,5 @@
+/Users/afroditiflora/Projects/carClassesAfroditiFlora/carClassesAfroditiFlora/obj/x86/Debug/carClassesAfroditiFlora.csproj.CoreCompileInputs.cache
+/Users/afroditiflora/Projects/carClassesAfroditiFlora/carClassesAfroditiFlora/bin/Debug/carClassesAfroditiFlora.exe
+/Users/afroditiflora/Projects/carClassesAfroditiFlora/carClassesAfroditiFlora/bin/Debug/carClassesAfroditiFlora.pdb
+/Users/afroditiflora/Projects/carClassesAfroditiFlora/carClassesAfroditiFlora/obj/x86/Debug/carClassesAfroditiFlora.exe
+/Users/afroditiflora/Projects/carClassesAfroditiFlora/carClassesAfroditiFlora/obj/x86/Debug/carClassesAfroditiFlora.pdb
